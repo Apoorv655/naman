@@ -4,7 +4,7 @@ public class LoginTest {
 	@Test
 	void login()
 	{
-		System.out.println("LOhhGIN**77**");
+		System.out.println("LOhhhGIN**77**");
 	}
 
 }
